@@ -1,0 +1,11 @@
+C:\Users\joshw\source\repos\RGB Controller\bin\Debug\RGB Controller.exe.config
+C:\Users\joshw\source\repos\RGB Controller\bin\Debug\RGB Controller.exe
+C:\Users\joshw\source\repos\RGB Controller\bin\Debug\RGB Controller.pdb
+C:\Users\joshw\source\repos\RGB Controller\obj\Debug\RGB Controller.csproj.AssemblyReference.cache
+C:\Users\joshw\source\repos\RGB Controller\obj\Debug\RGB Controller.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshw\source\repos\RGB Controller\obj\Debug\RGB_Controller.Form1.resources
+C:\Users\joshw\source\repos\RGB Controller\obj\Debug\RGB_Controller.Properties.Resources.resources
+C:\Users\joshw\source\repos\RGB Controller\obj\Debug\RGB Controller.csproj.GenerateResource.cache
+C:\Users\joshw\source\repos\RGB Controller\obj\Debug\RGB Controller.csproj.CoreCompileInputs.cache
+C:\Users\joshw\source\repos\RGB Controller\obj\Debug\RGB Controller.exe
+C:\Users\joshw\source\repos\RGB Controller\obj\Debug\RGB Controller.pdb
