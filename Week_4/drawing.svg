@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="353.92307mm"
+   height="48.85564mm"
+   viewBox="0 0 353.92307 48.85564"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71090067"
+     inkscape:cx="391.05322"
+     inkscape:cy="21.803327"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-367.84323"
+       y="884.08972"
+       width="77.366646"
+       height="40.089989"
+       id="rect26936" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(80.813148,-180.92273)">
+    <rect
+       style="fill:none;fill-opacity:0.0094787;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.107512;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect79"
+       width="353.81555"
+       height="48.748127"
+       x="-80.759392"
+       y="180.97649" />
+    <rect
+       style="fill:none;fill-opacity:0.0094787;stroke:#1d146d;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878"
+       width="39.078945"
+       height="39.45113"
+       x="-71.522804"
+       y="185.625" />
+    <rect
+       style="fill:#09feff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22225"
+       width="19.911654"
+       height="20.469925"
+       x="-61.939159"
+       y="195.1156" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text26934"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect26936);fill:#ff0000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.73701px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.0684255"
+       x="-51.467152"
+       y="221.7403"
+       id="text32564"
+       transform="scale(1.0097933,0.99030168)"><tspan
+         sodipodi:role="line"
+         id="tspan32562"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="-51.467152"
+         y="221.7403">Cutting: S=1 P=100 N=1</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="-51.467152"
+         y="225.16156"
+         id="tspan33688">Engrave: S=100 P=70 N=1</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.0094787;stroke:#f6fc76;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878-0"
+       width="39.078945"
+       height="39.45113"
+       x="-29.268856"
+       y="185.625" />
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22225-1"
+       width="19.911654"
+       height="20.469925"
+       x="-19.685211"
+       y="195.1156" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.73701px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.0684255"
+       x="-9.6229982"
+       y="221.7403"
+       id="text32564-0"
+       transform="scale(1.0097933,0.99030168)"><tspan
+         sodipodi:role="line"
+         id="tspan32562-2"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="-9.6229992"
+         y="221.7403">Cutting: S=.90 P=100 N=1</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="-9.6229973"
+         y="225.16156"
+         id="tspan33688-6">Engrave: S=90 P=70 N=1</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.0094787;stroke:#949fa1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878-5"
+       width="39.078945"
+       height="39.45113"
+       x="12.985086"
+       y="185.625" />
+    <rect
+       style="fill:#019935;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22225-2"
+       width="19.911654"
+       height="20.469925"
+       x="22.568737"
+       y="195.1156" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.73701px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.0684255"
+       x="32.221157"
+       y="221.7403"
+       id="text32564-2"
+       transform="scale(1.0097933,0.99030168)"><tspan
+         sodipodi:role="line"
+         id="tspan32562-8"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="32.221157"
+         y="221.7403">Cutting: S=.80 P=100 N=1</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="32.221157"
+         y="225.16156"
+         id="tspan33688-0">Engrave: S=80 P=70 N=1</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.0094787;stroke:#397460;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878-0-3"
+       width="39.078945"
+       height="39.45113"
+       x="55.23904"
+       y="185.625" />
+    <rect
+       style="fill:#989834;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22225-1-1"
+       width="19.911654"
+       height="20.469925"
+       x="64.822685"
+       y="195.1156" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.73701px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.0684255"
+       x="74.0653"
+       y="221.7403"
+       id="text32564-0-5"
+       transform="scale(1.0097933,0.99030168)"><tspan
+         sodipodi:role="line"
+         id="tspan32562-2-6"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="74.0653"
+         y="221.7403">Cutting: S=.70 P=100 N=1</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="74.0653"
+         y="225.16156"
+         id="tspan33688-6-1">Engrave: S=70 P=70 N=1</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.0094787;stroke:#6b5e4d;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878-8"
+       width="39.078945"
+       height="39.45113"
+       x="97.492989"
+       y="185.625" />
+    <rect
+       style="fill:#643500;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22225-3"
+       width="19.911654"
+       height="20.469925"
+       x="107.07664"
+       y="195.1156" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.73701px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.0684255"
+       x="115.90944"
+       y="221.74028"
+       id="text32564-1"
+       transform="scale(1.0097933,0.99030168)"><tspan
+         sodipodi:role="line"
+         id="tspan32562-1"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="115.90944"
+         y="221.74028">Cutting: S=.60 P=100 N=1</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="115.90944"
+         y="225.16154"
+         id="tspan33688-9">Engrave: S=60 P=70 N=1</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.0094787;stroke:#74206b;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878-0-7"
+       width="39.078945"
+       height="39.45113"
+       x="139.74689"
+       y="185.625" />
+    <rect
+       style="fill:#660167;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22225-1-9"
+       width="19.911654"
+       height="20.469925"
+       x="149.33054"
+       y="195.1156" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.73701px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.0684255"
+       x="157.75362"
+       y="221.74028"
+       id="text32564-0-8"
+       transform="scale(1.0097933,0.99030168)"><tspan
+         sodipodi:role="line"
+         id="tspan32562-2-5"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="157.75362"
+         y="221.74028">Cutting: S=.50 P=100 N=1</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="157.75362"
+         y="225.16154"
+         id="tspan33688-6-12">Engrave: S=50 P=70 N=1</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.0094787;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878-5-7"
+       width="39.078945"
+       height="39.45113"
+       x="182.00082"
+       y="185.625" />
+    <rect
+       style="fill:#010101;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22225-2-7"
+       width="19.911654"
+       height="20.469925"
+       x="191.58449"
+       y="195.1156" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.73701px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.0684255"
+       x="199.59778"
+       y="221.74028"
+       id="text32564-2-0"
+       transform="scale(1.0097933,0.99030168)"><tspan
+         sodipodi:role="line"
+         id="tspan32562-8-8"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="199.59778"
+         y="221.74028">Cutting: S=.40 P=100 N=1</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="199.59778"
+         y="225.16154"
+         id="tspan33688-0-7">Engrave: S=40 P=70 N=1</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.0094787;stroke:#babe9b;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878-0-3-5"
+       width="39.078945"
+       height="39.45113"
+       x="224.25479"
+       y="185.625" />
+    <rect
+       style="fill:#346699;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22225-1-1-4"
+       width="19.911654"
+       height="20.469925"
+       x="233.83844"
+       y="195.1156" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.73701px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.0684255"
+       x="241.44191"
+       y="221.74028"
+       id="text32564-0-5-3"
+       transform="scale(1.0097933,0.99030168)"><tspan
+         sodipodi:role="line"
+         id="tspan32562-2-6-2"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="241.44191"
+         y="221.74028">Cutting: S=.30 P=100 N=1</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke-width:0.0684255"
+         x="241.44191"
+         y="225.16154"
+         id="tspan33688-6-1-5">Engrave: S=30 P=70 N=1</tspan></text>
+  </g>
+</svg>
