@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<History Version="3">
+	<Commands Count="7" Position="6">
+		<Command Uuid="{DF0D8296-1A3F-4B28-AFF1-F887A0D030DF}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="1107004" />
+		<Command Uuid="{0B61D8B5-CC72-49A7-B5AD-A0215A312D04}" Name="Automatic alignment" Status="e" Ecmd="15046" Size="304712" />
+		<Command Uuid="{2849377B-884A-4A66-A07E-127EAE74F6DA}" Name="Global registration" Status="e" Ecmd="15045" Size="869456" />
+		<Command Uuid="{102420BB-4152-4D04-96CF-2F132DFE43EA}" Name="Sharp fusion" Status="e" Ecmd="15045" Size="10538820" />
+		<Command Uuid="{A07C31CD-AF81-433D-A3F7-02D6A43093DB}" Name="Small-object filter" Status="e" Ecmd="15045" Size="10536108" />
+		<Command Uuid="{A3BD8E54-6ACE-4003-88ED-2E95C2B72F99}" Name="Texturize surface" Status="e" Ecmd="15045" Size="0" />
+		<Command Uuid="{55C7EE1F-0583-4987-83CF-D8E2710FF54A}" Name="Adjust texture" Status="e" Ecmd="15045" Size="20752296" />
+	</Commands>
+</History>
