@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-05-17T09:47:20Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Untitled"
+        },
+        "Owner": "Joshwin Emmanuel <joshwinejohnson@gmail.com>",
+        "Size": {
+            "X": 46.637259,
+            "Y": 22.022
+        }
+    }
+}
